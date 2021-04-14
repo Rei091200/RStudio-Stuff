@@ -1,2 +1,2 @@
 # RStudio-Stuff
-Just some random projects that I make from RStudio
+**This repository will be full of my projects from online course @ Coursera**
